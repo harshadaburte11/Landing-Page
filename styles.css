@@ -1,0 +1,53 @@
+/* Custom Styles */
+.heading {
+  background-color: #f8f9fa;
+}
+
+.navbar {
+  border-radius: 10px;
+}
+
+.slider {
+  margin-top: 30px;
+}
+img{
+  height: 350px;
+}
+
+.footer {
+  background-color: gray;
+  color: white;
+  text-align: center;
+}
+h2{
+  text-align: center;
+
+}
+.head
+{
+  display: flex;
+  justify-content: space-around;
+  height: auto;
+  flex-wrap: wrap;
+  /* border: 2px solid violet; */
+  margin-bottom: 4px;
+}
+.left
+{
+  height: 300px;
+  width: 28%;
+  margin-top: 80px;
+  /* border: 2px solid red; */
+  background-color: bisque;
+}
+.right
+{
+  height: auto;
+  width: 68%;
+  /* border: 2px solid rgb(12, 226, 37); */
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 15px;
+  gap: 30px;
+  justify-content: space-around;
+}
